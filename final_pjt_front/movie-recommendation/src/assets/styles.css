@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+
+* {
+  font-family: "Noto Sans KR", sans-serif;
+  font-optical-sizing: auto;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  background-image: url('@/assets/background.png');
+  background-size: cover;
+  /* background-repeat: no-repeat; */
+  /* background-position: center; */
+  width: 100vw;
+  overflow-x: hidden;
+  padding-top: 86px;
+}
+
