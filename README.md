@@ -4,6 +4,11 @@
   ### 팀원 : 서민수
 <hr>
 
+
+
+https://github.com/seomsoo/Movie-Mate/assets/156265567/1bb18fa6-95c5-4c03-b8d0-8e4a6b9d9a9a
+
+
 # 목표 서비스 구현 및 실제 구현 정도
  1. 영화 조회 서비스
     
