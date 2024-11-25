@@ -1,7 +1,10 @@
 # 1. Movie-Mate
-## 알고리즘을 이용한 영화 추천 서비스
+
+![moviemate](https://github.com/user-attachments/assets/837100b8-ecf0-49a9-b83c-7446a2ba4d5d)
+
+
 ### 기간 : 24.05.16 ~ 24.05.23 (1주)
-### 인원 : 2명 
+### 인원 : 2명 ( FE : 1, BE : 1 )
 
 <hr>
 
@@ -10,14 +13,18 @@
 https://github.com/seomsoo/Movie-Mate/assets/156265567/1bb18fa6-95c5-4c03-b8d0-8e4a6b9d9a9a
 
 # 2. 개발 환경
+
+</br>
+
 ## Front-End
-- Vue.js
-- Vite
+ <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+ 
+ <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 
 ## Back-End
-- Django
+ <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-
+</br>
 
 # 3. 주요 기능
  1. 영화 조회 서비스
@@ -57,4 +64,4 @@ https://github.com/seomsoo/Movie-Mate/assets/156265567/1bb18fa6-95c5-4c03-b8d0-8
 | Contributors | Role | Position |
 | ------------ | ---- | -------- |
 | 　최승필 | 팀장, <br /> Backend | - 백엔드 전반 |
-| 　서민수 | 팀원, <br /> FrontEnd | - 프론트엔드 전반  |
+| 　서민수 | 팀원, <br /> FrontEnd | - 프론트엔드 전반, UX/UI  |
