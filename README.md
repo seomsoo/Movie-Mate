@@ -17,9 +17,6 @@ https://github.com/seomsoo/Movie-Mate/assets/156265567/1bb18fa6-95c5-4c03-b8d0-8
 ## Back-End
 - Django
 
-## ERD
-![Alt text](./etc/ERD.jpg)
-
 
 
 # 3. 주요 기능
